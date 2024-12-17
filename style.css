@@ -73,8 +73,8 @@ button {
 }
 
 /* Heading */
-h3,
-.add-new-task-title {
+.section-title,
+.section-title-new-task {
   color: #333;
   font-weight: 700;
   font-size: 15px;
