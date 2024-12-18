@@ -74,7 +74,7 @@ button {
 
 /* Heading */
 .section-title,
-.section-title-new-task {
+.section-title {
   color: #333;
   font-weight: 700;
   font-size: 15px;
@@ -102,7 +102,7 @@ input[type="text"]:focus {
 }
 
 /* New Task */
-.add-new-task-title {
+.section-title-new-task {
   display: block;
   margin: 0 0 20px;
 }
